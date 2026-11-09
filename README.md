@@ -28,7 +28,7 @@ Pré-requisito: ter o .NET SDK instalado.
 
 bash
 # Clonar o repositório
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/HenriqueMatheusNunes/ConsultadoCepAPI
 
 # Entrar na pasta do projeto
 cd ConsultandoCep
