@@ -15,6 +15,7 @@ Sanitização de Entrada: Remove automaticamente hífens (-) e espaços em branc
 Validação do CEP: Verifica se o CEP possui exatamente 8 dígitos numéricos antes de realizar a requisição HTTP.
 Tratamento de CEP não encontrado: Identifica quando a API retorna a propriedade "erro": "true", mesmo com o status HTTP 200 OK.
 Exibição dos Dados: Apresenta logradouro, bairro, cidade e estado (UF) de forma organizada no terminal.
+
 📂 Estrutura do Projeto
 text
 ConsultandoCep/
